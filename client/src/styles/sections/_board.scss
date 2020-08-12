@@ -1,0 +1,23 @@
+section.board {
+    article.board-message {
+        color: #4a4a4a;
+        max-width: 700px;
+        padding: 1rem;
+
+        p {
+            text-indent: 1rem;
+            text-align: left;
+            line-height: 1.8;
+            margin-bottom: 2rem;
+        }
+
+        p:first-child:first-letter {
+            font-size: 2rem;
+            font-weight: 600;
+        }
+    }
+
+    ul {
+        list-style: inherit;
+    }
+}

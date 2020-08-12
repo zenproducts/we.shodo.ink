@@ -1,0 +1,15 @@
+// General components for top page
+
+.image.showcase {
+    max-width: 800px;
+    padding: 1.5rem;
+
+    &.is-small {
+        max-width: 400px;
+    }
+}
+
+.image.logo {
+    max-width: 280px;
+    margin: 3rem 0;
+}
