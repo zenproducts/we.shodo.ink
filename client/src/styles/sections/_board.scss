@@ -1,8 +1,12 @@
-section.board {
+section.team {
     .member {
         padding: 2rem 3rem 3rem 2rem;
         margin-bottom: 1rem;
         text-align: center;
+
+        .subtitle {
+            font-size: 12px;
+        }
     }
 
     article.board-message {
